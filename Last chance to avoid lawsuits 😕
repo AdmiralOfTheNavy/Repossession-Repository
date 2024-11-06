@@ -1,0 +1,10 @@
+§_mkfiles/
+│
+├── replit_ProjectPhoenix_2024-01-01_12-00-00/
+│   ├── ProjectPhoenix_data.json
+│   ├── file1.py
+│   └── file2.py
+│
+└── chatgpt_logs/
+    ├── chatgpt_interaction_log.json
+    └── project_discussion.txt
