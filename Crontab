@@ -1,0 +1,5 @@
+# Open crontab
+crontab -e
+
+# Add this line to run the archive script every hour
+0 * * * * /usr/bin/python3 /path/to/your/override_script.py
